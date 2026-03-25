@@ -18,5 +18,16 @@ z == x + y
 ```
 `Calculate` z 
 
+![Cloudy Morning](https://octodex.github.com/images/cloud.jpg)
+
+
+
+<img alt="Mona Octocat" height=200 width=180 src="https://octodex.github.com/images/original.png" align=bottom>
+
+
+
+>
 > [!TIP] 
 > You can [Google](https://www.google.com/) "Github".
+
+
